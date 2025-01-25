@@ -60,16 +60,3 @@ This Python project demonstrates real-time video analysis by combining Google's 
 *   Remember to replace `"YOUR_API_KEY"` with your actual API key from Google AI Studio.
 *   This project requires a valid Google AI API key to access the Google Gemini services.
 
-## Contributing:
-
-Contributions are welcome! If you find any bugs, have ideas for enhancements, or want to add new features, please submit a pull request or create an issue on the GitHub repository.
-
-## License:
-
-(Add your preferred license here, e.g., MIT License)
-
----
-**Example Usage with Video File:**
-```python
-if __name__ == '__main__':
-    proc_vid(src='file', vid_path='path/to/your/video.mp4', skip=5, txt_dur=30)
