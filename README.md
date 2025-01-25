@@ -1,8 +1,5 @@
 # image-recognisation-using-python-opencv
-his Python project demonstrates real-time video analysis using Google's Gemini AI model and OpenCV. It captures video from a webcam or a specified video file, sends frames to the Gemini model for description, and displays the generated text on the video feed in real-time.
-# Real-Time Video Analysis with Gemini AI and OpenCV
-
-This Python project demonstrates real-time video analysis by combining Google's Gemini AI model with OpenCV. It processes video from a webcam or file, sends frames to Gemini for description, and overlays the text response onto the video feed.
+This Python project demonstrates real-time video analysis using Google's Gemini AI model and OpenCV. It captures video from a webcam or a specified video file, sends frames to the Gemini model for description, and displays the generated text on the video feed in real-time.
 
 ## Key Features:
 
