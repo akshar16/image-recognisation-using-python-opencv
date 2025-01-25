@@ -1,3 +1,6 @@
+#this code is used to get the names of availabe models to use 
+
+
 import google.generativeai as genai
 
 from main import API_KEY
